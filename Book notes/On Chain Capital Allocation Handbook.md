@@ -1,12 +1,12 @@
+OCAHB Noted by Mekail
 
 **Mechanism vs. Project Distinction:**
 
-The book could more clearly differentiate between specific projects and the underlying mechanisms they employ.
-
-A clearer separation would help readers understand the core principles that can be applied broadly, rather than focusing on particular implementations. Could restructure chapters to focus on underlying mechanisms rather than specific projects or implementation or use project examples to illustrate how mechanisms work in practice, rather than as the primary focus.
-
 What I find most interesting is the ability to break apart mechanisms into their underlying counterparts (e.g., Grant Ships employs Quadratic funding, Token-weighted voting, Milestone-based disbursements, and reputation systems). Not only can we further explore the different variations of various mechanisms such as reputation systems, but the ability to combine mechanisms into new complex systems is under-explored and arguably one of the most fascinating realms that will affect how organizations and their efficacy. It is like unraveling the arcane discovery of atoms and molecules, opening the ability to craft an unimaginable amount of various materials within that field, from adjusting atomic bonds to refining the isotopes and isomers of the atoms within. Vitaly and his work with value capture design also mimics a periodic table of ways tokens can capture value, which expands to multitudes. This is very fascinating, and the book could entertain this avenue of thought more by reframing and breaking apart the mechanisms more so, and touch upon ways in which we are or can accelerate this through AI and simulation.
 
+The book could more clearly differentiate between specific projects and the underlying mechanisms they employ.
+
+A clearer separation would help readers understand the core principles that can be applied broadly, rather than focusing on particular implementations. Could restructure chapters to focus on underlying mechanisms rather than specific projects or implementation or use project examples to illustrate how mechanisms work in practice, rather than as the primary focus. Collectively very exciting and a great way to better understand the potentials web 3 can have.
   
 **General Writing and Terminology**
 
@@ -100,3 +100,5 @@ Explain how it needs to be combined with capital allocation methods to be effect
 
 Discuss potential negative impacts or limitations
 
+
+There are a few more mechanisms that weren’t fully explored yet as I was reading although a few recognized themes that may be consistent throughout. Lots of potential in the book, and hopefully it engages more discourse around the different possible mechanisms and ways to measure their strengths and weaknesses and areas they can best be used in, as described towards the end of each mechanism in the book, taking into consideration the different variations those mechanisms can have and categorizing both. I hope to eventually see a periodic table of governance mechanisms eventually come from this.
